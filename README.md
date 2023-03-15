@@ -14,5 +14,6 @@ Here are some ideas to get you started:
 
 <![Pipi's GitHub stats](https://github-readme-stats.vercel.app/api?username=pipi-shortstocking&show_icons=true&theme=rose_pine)
 -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pipi-shortstocking&layout=compact&hide=ShaderLab,HLSL)](https://github.com/anuraghazra/github-readme-stats)
-<img src = "https://github-readme-stats.vercel.app/api?username=pipi-shortstocking&show_icons=true&theme=swift" width="400">
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pipi-shortstocking&hide=ShaderLab,HLSL&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<img src = "https://github-readme-stats.vercel.app/api?username=pipi-shortstocking&theme=swift" width="400">
+
