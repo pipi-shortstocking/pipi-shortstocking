@@ -30,11 +30,11 @@
 <img src="https://img.shields.io/badge/Markdown-000000?style=flat&logo=Markdown&logoColor=white"/>
 
 ## ✏️ Recent News
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=jannie526)](https://github.com/jannie526/velog-readme-stats)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=jannie526)](https://velog.io/@jannie526)
 
 ## 📎 etc.
 
 [//]: # ([![Top Langs]&#40;https://github-readme-stats.vercel.app/api/top-langs/?username=pipi-shortstocking&hide=ShaderLab,HLSL&layout=compact&#41;]&#40;https://github.com/anuraghazra/github-readme-stats&#41;)
-<img src = "https://github-readme-stats.vercel.app/api?username=pipi-shortstocking&theme=shadow_red">
+<img src="https://github-readme-stats.vercel.app/api?username=pipi-shortstocking&theme=shadow_red">
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jannie526)](https://solved.ac/jannie526)
