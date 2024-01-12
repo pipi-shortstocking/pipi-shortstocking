@@ -30,7 +30,7 @@
 <img src="https://img.shields.io/badge/Markdown-000000?style=flat&logo=Markdown&logoColor=white"/>
 
 ## ✏️ Recent News
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=jannie526)](https://velog.io/@jannie526)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=jannie526)](https://velog-readme-stats.vercel.app/api/redirect?name=jannie526)
 
 ## 📎 etc.
 
