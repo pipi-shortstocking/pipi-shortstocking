@@ -6,7 +6,6 @@
 🌱 청년취업사관학교 새싹(SeSAC) 영등포 웹 개발자 부트캠프 5기
 
 <a href="mailto:janni526@naver.com"><img src="https://img.shields.io/badge/Email-004788?style=flat-square&logo=Gmail&logoColor=white&link=jannie526@naver.com"/></a>
-<a href="https://slash-judo-7c4.notion.site/Jeongyun-Kim-107df4d13f344198b9ae7e32355e18f3?pvs=4"><img src="https://img.shields.io/badge/Profile & Resume-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
 
 ## 💻 Tech Stack
 ### Programming Languages
