@@ -5,8 +5,6 @@
 🏫 Kwangwoon Univ, Software. <br/>
 🌱 청년취업사관학교 새싹(SeSAC) 영등포 웹 개발자 부트캠프 5기
 
-<a href="mailto:janni526@naver.com"><img src="https://img.shields.io/badge/Email-004788?style=flat-square&logo=Gmail&logoColor=white&link=jannie526@naver.com"/></a>
-
 ## 💻 Tech Stack
 ### Programming Languages
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black"/>
