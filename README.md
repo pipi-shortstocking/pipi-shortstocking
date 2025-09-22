@@ -2,9 +2,8 @@
 
 ## 😎About Me
 🍇 포도상점 BackEnd Developer <br/>
-🍇 포도티켓 BackEnd Developer <br/>
 🏫 Kwangwoon Univ, Software. <br/>
-🌱 청년취업사관학교 새싹(SeSAC) 영등포 웹 개발자 부트캠프 5기
+📄 [Resume](https://github.com/user-attachments/files/22459691/default.pdf)
 
 ## 💻 Tech Stack
 ### BackEnd
