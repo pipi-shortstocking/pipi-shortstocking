@@ -3,7 +3,6 @@
 ## 😎About Me
 🍇 포도상점 BackEnd Developer <br/>
 🏫 Kwangwoon Univ, Software. <br/>
-📄 [Resume](https://github.com/user-attachments/files/22459691/default.pdf)
 
 ## 💻 Tech Stack
 ### BackEnd
