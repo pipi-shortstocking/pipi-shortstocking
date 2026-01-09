@@ -29,6 +29,6 @@
 ## 📎 etc.
 
 [//]: # ([![Top Langs]&#40;https://github-readme-stats.vercel.app/api/top-langs/?username=pipi-shortstocking&hide=ShaderLab,HLSL&layout=compact&#41;]&#40;https://github.com/anuraghazra/github-readme-stats&#41;)
-<img src="https://github-readme-stats.vercel.app/api?username=pipi-shortstocking&theme=shadow_red">
+[//]: <img src="https://github-readme-stats.vercel.app/api?username=pipi-shortstocking&theme=shadow_red">
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jannie526)](https://solved.ac/jannie526)
