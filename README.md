@@ -7,9 +7,9 @@
 
 ## 💻 Tech Stack
 ### BackEnd
-<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=SpringBoot&logoColor=white"/> <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white"/> <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=Express&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=SpringBoot&logoColor=white"/> <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white"/> <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=Express&logoColor=white"/> <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=Django&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/>
-<img src="https://img.shields.io/badge/Redis-FF4438?style=flat&logo=Redis&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redis-FF4438?style=flat&logo=Redis&logoColor=white"/> <img src="https://img.shields.io/badge/Postgresql-4169E1?style=flat&logo=Postgresql&logoColor=white"/>
 
 ### Programming Languages
 <img src="https://img.shields.io/badge/Java-blue?style=flat&logo=Java&logoColor=black"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black"/> 
