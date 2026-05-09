@@ -26,7 +26,7 @@
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=jannie526)](https://velog-readme-stats.vercel.app/api/redirect?name=jannie526)
 
 ## 📎 etc.
-[![DevTier](https://devtier-brown.vercel.app/api/badge/pipi-shortstocking)](https://devtier-brown.vercel.app/result/pipi-shortstocking)
+[![DevTier](https://devtier-brown.vercel.app/api/badge/pipi-shortstocking?theme=dark&size=lg)](https://devtier-brown.vercel.app/result/pipi-shortstocking)
 
 [//]: # ([![Top Langs]&#40;https://github-readme-stats.vercel.app/api/top-langs/?username=pipi-shortstocking&hide=ShaderLab,HLSL&layout=compact&#41;]&#40;https://github.com/anuraghazra/github-readme-stats&#41;)
 [//]: <img src="https://github-readme-stats.vercel.app/api?username=pipi-shortstocking&theme=shadow_red">
